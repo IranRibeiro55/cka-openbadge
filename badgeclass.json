@@ -1,0 +1,13 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "BadgeClass",
+    "id": "https://iranribeiro55.github.io/cka-openbadge/badgeclass.json",
+    "name": "Certified Kubernetes Administrator (CKA)",
+    "description": "Credential awarded for demonstrating proficiency in Kubernetes administration, including troubleshooting, installation, and configuration.",
+    "image": "https://iranribeiro55.github.io/cka-openbadge/logo.png",
+    "criteria": {
+        "narrative": "Score a passing grade on a proctored exam demonstrating Kubernetes administration competency.",
+        "id": "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"
+    },
+    "issuer": "https://iranribeiro55.github.io/cka-openbadge/issuer.json"
+}
