@@ -1,0 +1,15 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "type": "Assertion",
+    "recipient": {
+        "hashed": false,
+        "identity": "iran.ribeiro55@gmail.com",
+        "type": "email"
+    },
+    "badge": "https://iranribeiro55.github.io/cka-openbadge/badgeclass.json",
+    "verification": {
+        "type": "Hosted"
+    },
+    "issuedOn": "2024-06-22T00:00:00Z",
+    "id": "https://iranribeiro55.github.io/cka-openbadge/assertion.json"
+}
