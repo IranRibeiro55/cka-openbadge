@@ -1,9 +1,0 @@
-{
-    "@context": "https://w3id.org/openbadges/v2",
-    "type": "Issuer",
-    "id": "https://iranribeiro55.github.io/cka-openbadge/issuer.json",
-    "name": "The Linux Foundation",
-    "url": "https://training.linuxfoundation.org/",
-    "email": "info@linuxfoundation.org",
-    "description": "The Linux Foundation is dedicated to building sustainable ecosystems around open source projects."
-}
